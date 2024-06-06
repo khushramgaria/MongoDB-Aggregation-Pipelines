@@ -1,0 +1,16 @@
+1) How many users are active ?
+2) What is the average age of all users ?
+3) List the top five common fruits among users ?
+4) FInd the total number of males & females ?
+5) Which country has the highest number of registered users ?
+6) List all unique eyecolor present in the collection ?
+7) What is the average number of tags per user ?
+8) How many user have 'enum' as one of their tags ?
+9) What are the names and age of users who are inactive and have 'velit' as a tag ?
+10) How many users have phone number starting with "+1 (940)" ?
+11) Who has registered the most recently ?
+12) Catogrize the user by their favourite fruit ?
+13) How many users have 'ad' as the second tag in their list of tags ?
+14) Find users who have both 'emin' and 'id' as their tags ?
+15) List all the companies located in the USA with their corresponding user count ?
+16) lookup in mongo db
